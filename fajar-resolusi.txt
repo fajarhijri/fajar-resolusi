@@ -1,6 +1,6 @@
 Fajar resolusi
 - Konsisten dalam belajar koding setiap senin sampai jum'at
 - Membuat platform untuk aplikasi
-- Membuat forum di aplikasi
 - Saya bercita-cita untuk membuat aplikasi multiplatform
 - Kolaborasi dengan lebih banyak expert
+- Membuat konten
