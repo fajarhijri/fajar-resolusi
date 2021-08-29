@@ -1,4 +1,4 @@
 Hello Fajar
 
 My resolution
-- Managing with jenkins
+- Managing with jenkins and AWS
