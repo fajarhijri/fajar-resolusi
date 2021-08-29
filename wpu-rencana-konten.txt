@@ -1,4 +1,6 @@
 RENCANA KONTEN FAJAR
 
 - JavaScript
+  * ES6
+  * Framework JavaScript
 - Dart Framework
