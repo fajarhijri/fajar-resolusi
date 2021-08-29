@@ -5,6 +5,7 @@ RENCANA KONTEN FAJAR
   * Framework JavaScript
    ^ Vue
    ^ React
+   ^ Angular
 - Struktur Data Dasar
 - Dart Framework
   ^ Flutter
