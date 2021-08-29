@@ -3,5 +3,8 @@ RENCANA KONTEN FAJAR
 - JavaScript
   * ES6
   * Framework JavaScript
+   ^ Vue
 - Struktur Data Dasar
 - Dart Framework
+  ^ Flutter
+- Python
